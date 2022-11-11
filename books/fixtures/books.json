@@ -1,0 +1,35 @@
+[
+    {
+        "model": "books.book",
+        "pk": "59a88687-c376-4bd6-a456-89e3e8a7503d",
+        "fields": {
+            "title": "Hello",
+            "author": "Hello",
+            "price": "1.00",
+            "date_publication": "2022-11-10",
+            "cover": ""
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": "d0c999da-e6f6-4f87-8103-1dea37cdce46",
+        "fields": {
+            "title": "Bye",
+            "author": "Bye",
+            "price": "2.00",
+            "date_publication": "2022-11-10",
+            "cover": ""
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": "ef0292be-1755-423a-a88d-a25dc5fc8e2d",
+        "fields": {
+            "title": "Yes",
+            "author": "Yes",
+            "price": "3.00",
+            "date_publication": "2022-11-10",
+            "cover": "covers/PythonCookbook.jpg"
+        }
+    }
+]
